@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-driven and passionate Web Developer with expertise in building high-performance, multi-platform, and responsive<br>websites. Proficient in front-end and back-end technologies, including React.js, Next.js, JavaScript, CSS, and Node.js, with<br>experience in MERN stack development. Strong problem-solving skills and a keen eye for UI/UX design, ensuring seamless<br>and user-friendly web applications. Adept at database management (MongoDB, MySQL, PostgreSQL) and CI/CD workflows<br>using Git, GitHub, and GitLab. Skilled in research and algorithm development, with experience in machine learning and<br>medical imaging. Excellent collaboration and communication abilities, with hands-on experience managing projects and<br>leading development teams.
+ML Engineer with 2+ years of experience building deep learning pipelines, agentic AI systems, and LLM-integrated tools for healthcare and automation. Proficient in Python, PyTorch, and LangChain, with hands-on experience in developing custom agents, automation workflows, and generative AI applications using GPT-2, Ollama, and vector databases. Adept at designing and deploying AI-powered solutions in cloud and on-premise environments. Immediate joiner with strong R&D background in neuroimaging and quantitative MRI
 
 
 ## 🌐 Socials:
